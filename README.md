@@ -1,3 +1,14 @@
+학번 / 이름: 22300618/임규민
+Assignment 02 수행 내용: nostyle 웹페이지를 복제하여 3개의 html을 만들었고 그 중 Stylesheet1,3을 모방하여 각각 Style1, 2를 만들었음.
+각 페이지 설명 및 URL:
+https://oss-week2.vercel.app/index.html : nostyle, Style1, Style2 로 갈 수 있는 홈.
+https://oss-week2.vercel.app/nostyle.html : 기존 nostyle을 복제하여 이름과 학번을 넣은 페이지
+https://oss-week2.vercel.app/Style1.html : nostyle에서 기존 웹페이지 Stylesheet1을 참고하여 만든 페이지
+https://oss-week2.vercel.app/Style2.html : nostyle에서 기존 웹페이지 Stylesheet3를 참고하여 만든 페이지
+
+Vercel Deploy URL
+https://vercel.com/a-34be/oss-week2
+
 Key Learning: 이번 주 배운 핵심 내용 3가지
 padding과 margin의 차이와 사용법
 css를 활용한 웹 디자인
